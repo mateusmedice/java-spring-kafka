@@ -1,6 +1,6 @@
-package com.study.api.service;
+package com.study.kafka.service;
 
-import com.study.api.model.dto.CarPostDTO;
+import com.study.kafka.model.dto.CarPostDTO;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

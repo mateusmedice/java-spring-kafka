@@ -1,7 +1,7 @@
-package com.study.api.controller;
+package com.study.kafka.controller;
 
-import com.study.api.model.dto.CarPostDTO;
-import com.study.api.service.CarPostService;
+import com.study.kafka.model.dto.CarPostDTO;
+import com.study.kafka.service.CarPostService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

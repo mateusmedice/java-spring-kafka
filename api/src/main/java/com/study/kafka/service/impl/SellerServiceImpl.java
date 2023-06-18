@@ -1,8 +1,8 @@
-package com.study.api.service.impl;
+package com.study.kafka.service.impl;
 
-import com.study.api.client.CarPostServiceClient;
-import com.study.api.model.dto.SellerDTO;
-import com.study.api.service.SellerService;
+import com.study.kafka.client.CarPostServiceClient;
+import com.study.kafka.model.dto.SellerDTO;
+import com.study.kafka.service.SellerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

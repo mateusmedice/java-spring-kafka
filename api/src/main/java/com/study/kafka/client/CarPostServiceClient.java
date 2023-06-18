@@ -1,7 +1,7 @@
-package com.study.api.client;
+package com.study.kafka.client;
 
-import com.study.api.model.dto.CarPostDTO;
-import com.study.api.model.dto.SellerDTO;
+import com.study.kafka.model.dto.CarPostDTO;
+import com.study.kafka.model.dto.SellerDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;

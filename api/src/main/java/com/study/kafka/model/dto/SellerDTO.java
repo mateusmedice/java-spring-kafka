@@ -1,4 +1,4 @@
-package com.study.api.model.dto;
+package com.study.kafka.model.dto;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.AllArgsConstructor;

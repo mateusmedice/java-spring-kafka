@@ -1,8 +1,8 @@
-package com.study.api.controller;
+package com.study.kafka.controller;
 
 
-import com.study.api.model.dto.SellerDTO;
-import com.study.api.service.SellerService;
+import com.study.kafka.model.dto.SellerDTO;
+import com.study.kafka.service.SellerService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

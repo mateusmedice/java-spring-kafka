@@ -1,6 +1,6 @@
-package com.study.api.message;
+package com.study.kafka.message;
 
-import com.study.api.model.dto.CarPostDTO;
+import com.study.kafka.model.dto.CarPostDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Component;

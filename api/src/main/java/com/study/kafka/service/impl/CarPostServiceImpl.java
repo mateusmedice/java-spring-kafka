@@ -1,9 +1,9 @@
-package com.study.api.service.impl;
+package com.study.kafka.service.impl;
 
-import com.study.api.client.CarPostServiceClient;
-import com.study.api.message.CarPostMessageProducer;
-import com.study.api.model.dto.CarPostDTO;
-import com.study.api.service.CarPostService;
+import com.study.kafka.client.CarPostServiceClient;
+import com.study.kafka.message.CarPostMessageProducer;
+import com.study.kafka.model.dto.CarPostDTO;
+import com.study.kafka.service.CarPostService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
