@@ -93,8 +93,11 @@ public class CarPostServiceImpl implements CarPostService {
                 .description(carPost.getDescription())
                 .engineVersion(carPost.getEngineVersion())
                 .createdDate(carPost.getCreatedDate())
-                .sellerName(carPost.getSeller().getName())
                 .price(carPost.getPrice())
+                .contact(carPost.getContact())
+                .sellerId(carPost.getSeller().getId())
+                .sellerName(carPost.getSeller().getName())
+                .sellerType(carPost.getSeller().getType())
                 .build();
     }
 
