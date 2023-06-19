@@ -1,7 +1,9 @@
 # java-spring-kafka
 
 
-## zookeeper-server-start /usr/local/etc/kafka/zookeeper.properties
+## Starting Kafka
 
-## kafka-server-start /usr/local/etc/kafka/server.properties
+### zookeeper-server-start /usr/local/etc/kafka/zookeeper.properties
+
+### kafka-server-start /usr/local/etc/kafka/server.properties
 
